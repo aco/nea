@@ -1,0 +1,7 @@
+{
+  "min_line": 3,
+  "remove_starting": [
+    "Get Breaking News Delivered to Your Inbox"
+  ],
+  "regex_delete": []
+}

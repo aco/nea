@@ -1,0 +1,10 @@
+{
+  "min_line": 4,
+  "remove_starting": [
+    "--@"
+  ],
+  "regex_delete": [
+    ".*?--@.*?\\n",
+    ".*?t.co.*?\\n"
+  ]
+}

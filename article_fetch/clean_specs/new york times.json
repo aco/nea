@@ -1,0 +1,7 @@
+{
+  "min_line": 3,
+  "remove_starting": [],
+  "regex_delete": [
+    "^[A-Z]+.* [\u00e2\u20ac\u201d-]* "
+  ]
+}

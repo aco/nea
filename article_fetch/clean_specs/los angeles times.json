@@ -1,0 +1,7 @@
+{
+  "min_line": 3,
+  "remove_starting": [],
+  "regex_delete": [
+    "Advertisement\\n"
+  ]
+}

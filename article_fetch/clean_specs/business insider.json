@@ -1,0 +1,11 @@
+{
+  "min_line": 1,
+  "remove_starting": [
+    "This story has been updated",
+    "Best of"
+  ],
+  "regex_delete": [
+    ".*?[^\\.\"]\\n",
+      "^By .*?\\n"
+  ]
+}

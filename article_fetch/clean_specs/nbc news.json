@@ -1,0 +1,10 @@
+{
+  "min_line": 3,
+  "remove_starting": [
+    "Let our news meet your inbox.",
+    "Download the NBC News app",
+    "Get breaking news alerts",
+    "Follow NBC"
+  ],
+  "regex_delete": []
+}

@@ -1,0 +1,11 @@
+{
+  "min_line": 3,
+  "remove_starting": [
+    "That's all from me for today,",
+    "Here are the latest"
+  ],
+  "regex_delete": [
+    "\\d+:\\d+\\n",
+    ".*?contributed to this report.*?\\n"
+  ]
+}

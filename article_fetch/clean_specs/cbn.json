@@ -1,0 +1,12 @@
+{
+  "min_line": 4,
+  "remove_starting": [
+    "STAY UP TO DATE",
+    "Click Here",
+    "Copyright"
+  ],
+  "regex_delete": [
+    ".*?--@.*?\\n",
+    ".*?t.co.*?\\n"
+  ]
+}
